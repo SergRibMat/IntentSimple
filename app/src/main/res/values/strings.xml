@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EntrenamientoIntent</string>
+    <string name="BotonSiguiente">Go Next</string>
+    <string name="BotonAnterior">Go Back</string>
+    <string name="tv1">First Activity</string>
+    <string name="tv2">Data</string>
+    <string name="tv3">Number From Second Activity</string>
+</resources>
